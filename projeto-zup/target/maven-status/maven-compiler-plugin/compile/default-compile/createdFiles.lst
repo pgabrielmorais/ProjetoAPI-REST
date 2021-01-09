@@ -1,0 +1,4 @@
+com\pedro\projetozup\ProjetoZupApplication.class
+com\pedro\projetozup\model\Conta.class
+com\pedro\projetozup\model\ContaRepository.class
+com\pedro\projetozup\Controller\ContaController.class

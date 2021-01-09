@@ -1,0 +1,14 @@
+
+GET http://localhost:8080/contas/
+###
+POST http://localhost:8080/contas/ 
+Content-Type: application/json 
+
+{
+    "nome": "l",
+    "email": "pedro@pedro.com",
+    "cpf": "02233344455",
+    "dataNascimento": "2020-02-20"
+}
+
+###
